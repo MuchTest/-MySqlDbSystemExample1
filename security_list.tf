@@ -27,7 +27,7 @@ resource "oci_core_security_list" "MySqlOciSecurityList" {
     }
   }
 
-
+# need to review this... 
 
   ingress_security_rules {
     stateless = false
