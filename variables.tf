@@ -1,6 +1,6 @@
 
 variable "compartment_ocid" {
-  default = "ocid1.tenancy.oc1..aaaaaaaa5u7673g6im7w7533shadcgbqxuzpcv6toqmb5yxzxigmeirt6hdq"
+  default = " " # add here your compartment OCID (the root)
 }
 
 # for mysql 
